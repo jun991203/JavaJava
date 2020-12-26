@@ -2,7 +2,7 @@
 > 2021년 자바 되돌아보기 프로젝트를 위한 개인 공부 repository
 
 ## 공부 방식
-[명품 Java Programming]:https://book.naver.com/bookdb/book_detail.nhn?bid=13650995
++ BOOK : [명품 Java Programming](https://book.naver.com/bookdb/book_detail.nhn?bid=13650995)
 + 매주 Chapter 1개씩 공부
 + 실습 문제, 연습 문제
   + 연습 문제는 github에 올리기
